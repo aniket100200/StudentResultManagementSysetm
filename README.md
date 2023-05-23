@@ -57,6 +57,14 @@ that's how it looks like..
 .
 .![ResltShow](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/ab764b27-9039-43ee-bc22-044c4182064e)
 
+# addAdmin Button
+-> using this button you can add new Admin 
+-> admin is person who can make changes in the database 
+-> during this it'll ask for the user to enter username and password 
+-> after hitting the addAdmine button you'll have pop message that admin is added 
+-> So you can have many admins so you can do you work  with your colleges...
+-> and add admin section looks like  below 
+![addAdminButton](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/707ebb0b-7f07-4841-a28e-f75aa1372bda)
 
 # Thank You !!!!!
 
