@@ -47,7 +47,8 @@ that's how it looks like..
 .
 .
 .
-![Rsult page](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/479d8cde-602c-4c3b-bfea-cc75ef8fa119)
+!![{EDF6BF33-1D20-451D-B7E0-25002591A7AC} png](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/0d4e4de8-75d1-44f5-9c0c-560d415909b7)
+
 
 
 # Result Page
