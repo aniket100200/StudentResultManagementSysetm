@@ -38,3 +38,28 @@ that's how it looks like..
 ![image](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/ed2eb4c9-09a3-4946-9175-c2e50ccff5a7)
 
 
+# Result Search Page
+-> using this a student users can access their result 
+-> by entering their roll number they can veiw their results using search button
+
+>>The page looks like.
+.
+.
+.
+![Rsult page](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/479d8cde-602c-4c3b-bfea-cc75ef8fa119)
+
+
+# Result Page
+-> as you click on the search button you'll directly redirect to the this page if you have valid roll number..
+-> This page contains all the information of the student with marks in each subject
+-> and total marks obtained by the studenet user..
+.
+.
+.![ResltShow](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/ab764b27-9039-43ee-bc22-044c4182064e)
+
+
+# Thank You !!!!!
+
+
+
+
