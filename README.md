@@ -47,7 +47,8 @@ that's how it looks like..
 .
 .
 .
-!![{EDF6BF33-1D20-451D-B7E0-25002591A7AC} png](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/0d4e4de8-75d1-44f5-9c0c-560d415909b7)
+![Rsult page](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/c8d26c95-237b-45ca-9243-43b62d8d8b01)
+
 
 
 
@@ -57,7 +58,7 @@ that's how it looks like..
 -> and total marks obtained by the studenet user..
 .
 .
-.![ResltShow](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/ab764b27-9039-43ee-bc22-044c4182064e)
+!![{EDF6BF33-1D20-451D-B7E0-25002591A7AC} png](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/0d4e4de8-75d1-44f5-9c0c-560d415909b7)
 
 # addAdmin Button
 -> using this button you can add new Admin 
