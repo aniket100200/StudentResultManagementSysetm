@@ -26,8 +26,9 @@ that's how it looks like..
 # Registered Students Button 
 -> using this button user can see all the students who are registered in the database..
 .
-.
-.![registeredstudents](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/364b454b-b315-4883-93d6-78f684d676c5)
+.![registered 123](https://github.com/aniket100200/StudentResultManagementSysetm/assets/116418804/c6582aa3-d830-4db7-b95f-2a4aa5db917f)
+
+
 
 
 # allStudent Result Button 
